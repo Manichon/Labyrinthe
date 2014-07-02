@@ -23,6 +23,7 @@ namespace Labyrinthe
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
